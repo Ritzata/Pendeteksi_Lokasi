@@ -1,7 +1,22 @@
-# ShushMe
+
+# Pendeteksi Lokasi
 Google Places API demo app
+
+# Link File APK
+https://drive.google.com/open?id=0B9pyDW_jM52NMDdvRXBneXNZaEE
+
+# Identitas
+    Nama            : Ritza Kufita Rizqia
+    Kelas / No urut : XII RPL 3 / 30
+    NIS             : 4816/1535/070
+    Angkatan        : 24
+    Nama Sekolah    : SMK Telkom Malang
 
 ## Screenshots
 
-![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
-![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) ![Screenshot6](screenshots/screen_6.png)
+Screenshot 1 | Screenshot 2
+------------ | -------------
+|
+Screenshot 3 | Screenshot 4
+------------ | -------------
+|
